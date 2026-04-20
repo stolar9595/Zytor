@@ -16,12 +16,12 @@ Stop juggling multiple apps, shady websites, or converters.
 <br>
 
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen)]()
-[![Version](https://img.shields.io/badge/Release-1.1.0-red)]()
+[![Version](https://img.shields.io/badge/Release-1.2.0-red)]()
 [![License](https://img.shields.io/badge/License-GPLv3-blue)]()
 
 <br>
 
-<a href="https://github.com/ImKKingshuk/Zytor/releases/download/v1.1.0/zytor-v1.1.0-arm64-v8a.apk">
+<a href="https://github.com/ImKKingshuk/Zytor/releases/download/v1.2.0/zytor-v1.2.0-arm64-v8a.apk">
  <img width="180" src="https://img.shields.io/badge/Download-APK-blue?logo=android&style=square" alt="Download APK"/>
 
 </a>
@@ -47,15 +47,12 @@ Stop juggling multiple apps, shady websites, or converters.
 <img src="https://zytor.vercel.app/screenshots/updates.jpg" width="120" alt="Updates"/>
 </p>
 
-## 🚀 What's New (v1.1.0)
+## 🚀 What's New (v1.2.0)
 
-- **TurboBolt Engine** : Experience up to **500% faster** downloads with 32x parallelization and 64-segment splitting.
-- **Redesigned Download UI** : Toggle between **Grid (Large/Small)** and **List** views
-- **Tab+Swipe Navigation** : New **Tab+Swipe** navigation for easy access to different modes.
-- **Smart Filtering** : Instantly filter by Video, Audio, or Images
-- **Compact Status Pills** : Compact status pills for realtime download speed, ETA, and size.
-- **Pro Audio Support** : Added native **FLAC, WAV, and ALAC** formats with bitrates up to **320kbps**.
-- **New Platform Support (300+ Total Platforms)** : Added support for over 30+ new platforms across Asian Drama, Indian OTT, and Anime.
+- **Zytor Engine Rewrite** — Fully rewritten for maximum reliability and speed.
+- **Bleeding Edge Stack** : Migrated to **Java 25**, and **Kotlin 2.2** for maximum runtime performance.
+- **Background Engine Updates** : Engines now update silently in the background, ensuring you always have the latest fixes.
+- **Extreme Speed** : Further optimizations to the TurboBolt engine for even higher throughput.
 
 ## Features
 

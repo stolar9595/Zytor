@@ -11,6 +11,25 @@ Zytor uses two release channels:
 - **Beta** — Early access to experimental features. May contain bugs, UI changes, or unfinished modules.  
   *(Example: `v1.5.0-beta`)*
 
+## [1.2.0] - 2026-04-20
+
+### ✨ New Features
+
+- **Zytor Engine Rewrite** — Fully rewritten for maximum reliability and speed.
+- **Integrated Toolchain** — Built-in modules ensuring a seamless download experience.
+- **Background Binary Updates** — Implemented silent, efficient background updates for the engine.
+- **Smart Routing** — Advanced logic to automatically route video, audio, and image links to the most efficient engine.
+
+### 🔧 Technical Improvements
+
+- **Bleeding Edge Stack** — Migrated to **Java 25**, and **Kotlin 2.2** for maximum runtime performance.
+- **Extreme Download Speed** — Fine-tuned the internal engine to push data throughput to its absolute limit.
+
+### 🐛 Bug Fixes
+
+- Fixed inaccurate media type detection for certain social platform links.
+- Improved error handling for background engine updates.
+
 ## [1.1.0] - 2025-12-30
 
 ### ✨ New Features
